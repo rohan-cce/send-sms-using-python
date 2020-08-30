@@ -25,4 +25,4 @@ Using this python program we send message to a specified number
 
 5)Check Your Phone for the message
 
-![](images.4.jpg)
+![](images/4.jpg)
