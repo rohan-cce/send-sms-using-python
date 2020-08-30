@@ -2,27 +2,28 @@
 
 
 
-Using this python program we send message to a specified number
+Using this python program we send message to a specified number using fast2sms API
 
 
 
 ##Procedure##
-1)Open [fast2sms](https://www.fast2sms.com/) website and signup using your mobile number
+------------------------------------------------------------------------------------
+1)Open [fast2sms](https://www.fast2sms.com/) Website And Signup Using Your Mobile Number
 
 ![](images/1.jpg)
-
-2)In dashboard go to DEV-API
+-------------------------------------------------------------------------------------
+2)In Dashboard Go To DEV-API
 
 ![](images/2.jpg)
 
-3)copy the API key and paste it in the code  
+3)Copy The API Key And Paste It In the Variable "api"
 
 ![](images/3.jpg)
 
-4)run the code and send sms by inputting your mobile number and message
+4)Run The Code And Send SMS By Inputting the Mobile Number And Message
 
 ![](images/3.jpg)
 
-5)Check Your Phone for the message
+5)RESULT
 
 ![](images/4.jpg)
