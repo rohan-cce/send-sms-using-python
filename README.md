@@ -2,7 +2,7 @@
 
 
 
-Using this python program we send message to a specified number using fast2sms API
+Using this python program we can send message to a specified number using fast2sms API
 
 
 
